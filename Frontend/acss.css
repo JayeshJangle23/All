@@ -1,0 +1,17 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#center{
+    color: tomato;
+    padding: 50px;
+    font-family: Domine;
+    font-size: xx-large;
+    text-decoration: solid;
+    font-weight: 900;
+}
